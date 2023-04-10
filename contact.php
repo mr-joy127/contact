@@ -29,7 +29,7 @@ if($_POST) {
     }
      
     if($concerned_department == «billing») {
-        $recipient = «billing@domain.com»;
+        $recipient = «maksimka3552@gmail.com»;
     }
     else if($concerned_department == «marketing») {
         $recipient = «marketing@domain.com»;
